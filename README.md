@@ -3,7 +3,7 @@
 <h2>👨‍💻 Embedded Systems and IoT Development Projects:</h2>
 
 - <b>Smart Home Automation (IoT Systems)</b>
-  - [Smart Smoke and Gas Detection System](https://github.com/yourgithub/smoke-gas-detection)
+  - [Smart Smoke and Gas Detection System](https://github.com/medali431/Smart_home.git)
 - <b>Firmware Development (C/C++ for Microcontrollers)</b>
   - [Temperature Sensor Data Logging (Arduino)](https://github.com/yourgithub/temp-sensor)
   - [Motor Control for Robotics (STM32)](https://github.com/yourgithub/robot-motor-control)
