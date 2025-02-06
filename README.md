@@ -41,5 +41,5 @@
 
 [twitter]: https://twitter.com/yourtwitter
 [youtube]: https://www.youtube.com/c/youryoutube
-[instagram]: (https://www.instagram.com/medali_nouira/)
+[instagram]: https://www.instagram.com/medali_nouira/
 [linkedin]: https://linkedin.com/in/yourlinkedin
