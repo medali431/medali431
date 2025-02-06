@@ -13,6 +13,17 @@
 - <b>Embedded Machine Learning</b>
   - [AI-based Object Detection for Embedded Cameras](https://github.com/yourgithub/embedded-ai-object-detection)
 
+<h2>📚 Certifications</h2>
+
+- <b>Certified IoT Specialist</b>
+  - [View Certificate](https://www.example.com/certificates/iot-specialist)
+- <b>Embedded Systems Programming (C/C++)</b>
+  - [View Certificate](https://www.example.com/certificates/embedded-systems)
+- <b>Machine Learning for Embedded Systems</b>
+  - [View Certificate](https://www.example.com/certificates/embedded-ml)
+- <b>RTOS Development for Embedded Systems</b>
+  - [View Certificate](https://www.example.com/certificates/rtos-development)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to Start in Embedded Systems and IoT Development](https://www.youtube.com/watch?v=examplevideo1)
