@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed Ali Noura! <br/><a href="https://github.com/yourgithub">Embedded Systems Engineer</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Engineer</a>, <a href="https://www.youtube.com/c/youryoutube">YouTuber</a></h1>
+<h1>Hi, I'm Mohamed Ali Nouira! <br/><a href="https://github.com/yourgithub">Embedded Systems Engineer</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Engineer</a></h1>
 
 <h2>👨‍💻 Embedded Systems Development Projects:</h2>
 
