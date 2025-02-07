@@ -16,7 +16,7 @@
 <h2>📚 Certifications</h2>
 
 - <b>Certificate of Training: Embedded C Programming and STM32 Microcontroller Development</b>
-  - [View Certificate](https://imgur.com/a/kFQ7OTi)
+  - [View Certificate](https://github.com/medali431/certificat/blob/main/stm32.png)
 - <b>Robotique</b>
   - [View Certificate](https://github.com/medali431/certificat/blob/main/Robotique.jpg)
 - <b>Industrie4.0.</b>
