@@ -17,8 +17,8 @@
 
 - <b>Certificate of Training: Embedded C Programming and STM32 Microcontroller Development</b>
   - [View Certificate](https://imgur.com/a/kFQ7OTi)
-- <b>Embedded Systems Programming (C/C++)</b>
-  - [View Certificate](https://www.example.com/certificates/embedded-systems)
+- <b>Robotique</b>
+  - [View Certificate](https://github.com/medali431/certificat/blob/main/Robotique.jpg)
 - <b>Machine Learning for Embedded Systems</b>
   - [View Certificate](https://www.example.com/certificates/embedded-ml)
 - <b>RTOS Development for Embedded Systems</b>
