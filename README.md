@@ -16,7 +16,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Hotel-Managment-System](https://github.com/medali431/Hotel-Managment-System)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
