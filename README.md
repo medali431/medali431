@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed Ali Nouira! <br/><a href="https://github.com/yourgithub">Embedded Systems Engineer</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Engineer</a>, <a href="https://github.com/yourgithub">IoT Developer</a></h1>
+<h1>Hi, I'm Mohamed Ali Nouira! <br/><a href="https://github.com/yourgithub">Embedded Systems Engineer</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Software Engineer</a>, <a href="https://github.com/yourgithub">IoT Developer</a></h1>
 
 <h2>👨‍💻 Embedded Systems and IoT Development Projects:</h2>
 
