@@ -15,7 +15,7 @@
 
 <h2>📚 Certifications</h2>
 
-- <b>Certified IoT Specialist</b>
+- <b>Certificate of Training: Embedded C Programming and STM32 Microcontroller Development</b>
   - [View Certificate](https://www.example.com/certificates/iot-specialist)
 - <b>Embedded Systems Programming (C/C++)</b>
   - [View Certificate](https://www.example.com/certificates/embedded-systems)
