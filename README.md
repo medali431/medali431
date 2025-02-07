@@ -24,13 +24,7 @@
 - <b>RTOS Development for Embedded Systems</b>
   - [View Certificate](https://www.example.com/certificates/rtos-development)
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to Start in Embedded Systems and IoT Development](https://www.youtube.com/watch?v=examplevideo1)
-- [Building a Smart Home with IoT: An Embedded Systems Guide](https://www.youtube.com/watch?v=examplevideo2)
-- [How to Program STM32 Microcontrollers](https://www.youtube.com/watch?v=examplevideo3)
-- [Exploring IoT Connectivity: MQTT & Bluetooth](https://www.youtube.com/watch?v=examplevideo4)
-- [Embedded Systems Debugging Techniques](https://www.youtube.com/watch?v=examplevideo5)
 
 <h2> 🤳 Connect with me:</h2>
 
