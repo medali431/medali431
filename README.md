@@ -12,6 +12,13 @@
   - [BLE-based Health Monitoring System](https://github.com/yourgithub/ble-health-monitoring)
 - <b>Embedded Machine Learning</b>
   - [AI-based Object Detection for Embedded Cameras](https://github.com/yourgithub/embedded-ai-object-detection)
+  - 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>📚 Certifications</h2>
 
