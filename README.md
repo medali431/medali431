@@ -4,21 +4,12 @@
 
 - <b>Smart Home Automation (IoT Systems)</b>
   - [Smart Smoke and Gas Detection System](https://github.com/medali431/Smart_home.git)
-- <b>Firmware Development (C/C++ for Microcontrollers)</b>
-  - [Temperature Sensor Data Logging (Arduino)](https://github.com/yourgithub/temp-sensor)
-  - [Motor Control for Robotics (STM32)](https://github.com/yourgithub/robot-motor-control)
-- <b>IoT Connectivity (MQTT, Wi-Fi, Bluetooth)</b>
-  - [Smart Home Device Communication System](https://github.com/yourgithub/smart-home-iot)
-  - [BLE-based Health Monitoring System](https://github.com/yourgithub/ble-health-monitoring)
-- <b>Embedded Machine Learning</b>
-  - [AI-based Object Detection for Embedded Cameras](https://github.com/yourgithub/embedded-ai-object-detection)
+
   - 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Hotel-Managment-System](https://github.com/medali431/Hotel-Managment-System)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>📚 Certifications</h2>
 
