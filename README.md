@@ -6,7 +6,7 @@
   - [Smart Smoke and Gas Detection System](https://github.com/medali431/Smart_home.git)
 - <b>Synchronisation de Vitesse de Deux Moteurs
 Brushless</b>
-   - [Smart Smoke and Gas Detection System](https://github.com/medali431/Synchronisation-de-Vitesse-de-Deux-Moteurs-Brushless.git)
+   - [BL-VSync](https://github.com/medali431/Synchronisation-de-Vitesse-de-Deux-Moteurs-Brushless.git)
 
 
     <h2>👨‍💻 Embedded Systems and IoT Development Projects:</h2>
