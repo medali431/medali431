@@ -27,11 +27,11 @@ Brushless</b>
   - [View Certificate](https://www.example.com/certificates/rtos-development)
  
 - <b>NVIDIA Deep Learning Institute (DLI)</b>
-  - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/blob/main/nvidia_llm_prompt.png)
-  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/nvidia_data_parallelism.png)
-  - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/blob/main/nvidia_predictive_maintenance.png)
-  - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/blob/main/nvidia_computer_vision.png)
-  - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/blob/main/nvidia_fundamentals_dl.png)
+  - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/MyLearning_NVIDIA.pdf)
+  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/MyLearning_NVIDIA1.pdf)
+  - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/MyLearning_NVIDIA2.pdf)
+  - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/MyLearning_NVIDIA3.pdf)
+  - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/MyLearning_NVIDIA4.pdf)
 
 
 
