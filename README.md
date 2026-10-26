@@ -28,7 +28,7 @@ Brushless</b>
  
 - <b>NVIDIA Deep Learning Institute (DLI)</b>
   - [Building LLM Applications With Prompt Engineering](MyLearning_NVIDIA.pdf)
-  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA1.pdf)
+  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/My Learning _ NVIDIA.pdf)
   - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA2.pdf)
   - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA3.pdf)
   - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA4.pdf)
