@@ -24,14 +24,14 @@ Brushless</b>
 - <b>Industrie4.0.</b>
   - [View Certificate](https://github.com/medali431/certificat/blob/main/industrie4.0.jpg)
 - <b>RTOS Development for Embedded Systems</b>
-  - [View Certificate](https://www.example.com/certificates/rtos-development)
+  - [View Certificate](https://www.example.com/certificates/blob/main/rtos-development)
  
 - <b>NVIDIA Deep Learning Institute (DLI)</b>
-  - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/MyLearning_NVIDIA.pdf)
-  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/MyLearning_NVIDIA1.pdf)
-  - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/MyLearning_NVIDIA2.pdf)
-  - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/MyLearning_NVIDIA3.pdf)
-  - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/MyLearning_NVIDIA4.pdf)
+  - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA.pdf)
+  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA1.pdf)
+  - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA2.pdf)
+  - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA3.pdf)
+  - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/blob/main/MyLearning_NVIDIA4.pdf)
 
 
 
