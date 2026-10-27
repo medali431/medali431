@@ -8,7 +8,14 @@
 Brushless</b>
    - [BL-VSync](https://github.com/medali431/Synchronisation-de-Vitesse-de-Deux-Moteurs-Brushless.git)
 
+<h2>🤖 AI Projects:</h2>
 
+- <b>AgriScan : Détection des maladies des plantes par IA</b>
+  - Application mobile qui diagnostique les maladies d'une plante à partir d'une photo de feuille, avec un modèle de classification d'images intégré pour une inférence en temps réel.
+  - [Voir le projet](https://github.com/medali431/agriscan-app.git)
+- <b>BumpGuard : 1er Prix ENISO IoT Challenge (V2X)</b>
+  - Système embarqué dans le véhicule qui détecte, à partir des chocs et des mouvements latéraux, les nids-de-poule et les dos-d'âne grâce à un modèle d'IA. Chaque anomalie est signalée sur Google Maps après validation     par plusieurs véhicules, afin d'anticiper les obstacles, d'éviter les freinages brusques et de réduire les émissions de CO₂.
+  - [Voir le projet](https://github.com/medali431/NOM-DU-REPO)
    
 <h2>👨‍💻 Software Development Projects:</h2>
 
