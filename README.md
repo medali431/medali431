@@ -1,4 +1,6 @@
-<h1>Hi, I'm Mohamed Ali Nouira! <br/><a href="https://github.com/yourgithub">Embedded IA Engineer</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Software Engineer</a>, <a href="https://github.com/yourgithub">IoT Developer</a></h1>
+<h1>Hi, I'm Mohamed Ali Nouira! <br/><a href="https://github.com/medali431">Full Stack & AI Engineer</a>, <a href="https://www.linkedin.com/in/med-ali-nouira-8bab37278/">Software Engineer</a>, <a href="https://github.com/medali431">Embedded AI & IoT Developer</a></h1>
+
+Engineering student at ENISO (Applied Computer Science), building end-to-end software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and embedded IoT. Looking for a final-year project (PFE) in applied AI.
 
 <h2>👨‍💻 Embedded Systems and IoT Development Projects:</h2>
 
