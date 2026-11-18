@@ -22,6 +22,7 @@ Engineering student at ENISO (Applied Computer Science), building end-to-end sof
   - [Hotel-Managment-System](https://github.com/medali431/Hotel-Managment-System)
 
 <h2>📚 Certifications</h2>
+
 - <b>NVIDIA Deep Learning Institute (DLI)</b>
   - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/blob/main/NVIDIA1.pdf)
   - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/NVIDIA2.pdf)
