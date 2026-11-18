@@ -1,16 +1,20 @@
-<div align="center">
-  <img src="https://github.com/medali431/images/blob/main/linkedin_03_chemise_blanc_exterieur.jpg?raw=true" width="150" style="border-radius: 50%;" alt="Mohamed Ali Nouira" />
-</div>
-
-<h1 align="center">Hi, I'm Mohamed Ali Nouira! <br/>
-  <a href="https://github.com/medali431">Full Stack & AI Engineer</a>, 
-  <a href="https://www.linkedin.com/in/med-ali-nouira-8bab37278/">Software Engineer</a>, 
-  
-</h1>
-
-<p align="center">
-  Engineering student at ENISO (Applied Computer Science), building end-to-end software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and embedded IoT. Looking for a final-year project (PFE) in applied AI.
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/medali431/images/blob/main/linkedin_03_chemise_blanc_exterieur.jpg?raw=true" width="150" style="border-radius: 50%;" alt="Mohamed Ali Nouira" />
+    </td>
+    <td>
+      <h1>Hi, I'm Mohamed Ali Nouira! <br/>
+        <a href="https://github.com/medali431">Full Stack & AI Engineer</a>, 
+        <a href="https://www.linkedin.com/in/med-ali-nouira-8bab37278/">Software Engineer</a>, 
+        <a href="https://github.com/medali431">Embedded AI & IoT Developer</a>
+      </h1>
+      <p>
+        Engineering student at ENISO (Applied Computer Science), building end-to-end software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and embedded IoT. Looking for a final-year project (PFE) in applied AI.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
