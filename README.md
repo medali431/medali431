@@ -2,7 +2,7 @@
   <tr>
     <td width="170" align="center" valign="middle">
       <img src="https://github.com/medali431/images/blob/main/linkedin_03_chemise_blanc_exterieur.jpg?raw=true"
-           width="150" height="150" alt="Mohamed Ali Nouira" />
+           width="200" height="200" alt="Mohamed Ali Nouira" />
     </td>
     <td valign="middle">
       <h1>Hi, I'm Mohamed Ali Nouira 👋</h1>
