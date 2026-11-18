@@ -22,6 +22,12 @@ Engineering student at ENISO (Applied Computer Science), building end-to-end sof
   - [Hotel-Managment-System](https://github.com/medali431/Hotel-Managment-System)
 
 <h2>📚 Certifications</h2>
+- <b>NVIDIA Deep Learning Institute (DLI)</b>
+  - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/blob/main/NVIDIA1.pdf)
+  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/NVIDIA2.pdf)
+  - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/blob/main/NVIDIA3.pdf)
+  - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/blob/main/NVIDIA4.pdf)
+  - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/blob/main/NVIDIA5.pdf)
 
 - <b>Certificate of Training: Embedded C Programming and STM32 Microcontroller Development</b>
   - [View Certificate](https://github.com/medali431/certificat/blob/main/stm32.png)
@@ -32,12 +38,7 @@ Engineering student at ENISO (Applied Computer Science), building end-to-end sof
 - <b>RTOS Development for Embedded Systems</b>
   - [View Certificate](https://www.example.com/certificates/blob/main/rtos-development)
  
-- <b>NVIDIA Deep Learning Institute (DLI)</b>
-  - [Building LLM Applications With Prompt Engineering](https://github.com/medali431/certificat/blob/main/NVIDIA1.pdf)
-  - [Data Parallelism: How to Train Deep Learning Models on Multiple GPUs](https://github.com/medali431/certificat/blob/main/NVIDIA2.pdf)
-  - [Applications of AI for Predictive Maintenance](https://github.com/medali431/certificat/blob/main/NVIDIA3.pdf)
-  - [Computer Vision for Industrial Inspection](https://github.com/medali431/certificat/blob/main/NVIDIA4.pdf)
-  - [Fundamentals of Deep Learning](https://github.com/medali431/certificat/blob/main/NVIDIA5.pdf)
+
 
 
 
