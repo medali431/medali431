@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Mohamed Ali Nouira! <br/>
   <a href="https://github.com/medali431">Full Stack & AI Engineer</a>, 
   <a href="https://www.linkedin.com/in/med-ali-nouira-8bab37278/">Software Engineer</a>, 
-  <a href="https://github.com/medali431">Embedded AI & IoT Developer</a>
+  
 </h1>
 
 <p align="center">
