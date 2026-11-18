@@ -7,10 +7,11 @@ Engineering student at ENISO (Applied Computer Science), building end-to-end sof
 
    
 <h2>👨‍💻 Software Development & AI Projects:</h2>
+
 - <b>Smart City & AI Data Platforms</b>
   - [Neo-Sousse 2030 - Smart City Platform](https://github.com/medali431/samrt-city) 
     - *Stack: Python, Streamlit, PostgreSQL, SQLite, LangChain, Groq (LLM), Graphviz, Pytest.*
-    - *Description: Plateforme Smart City interactive avec tableau de bord. Intègre un pipeline NL→SQL (via LLM Groq) pour interroger la base de données urbaine, des automates à états finis pour la gestion des capteurs, et la génération de rapports IA.*
+    - *Description: Plateforme Smart City interactive avec tableau de bord. Intègre un pipeline NL→SQL (via LLM Groq) pour interroger la base de données urbaine, des automates à états  finis pour la gestion des capteurs, et la génération de rapports IA.*
 
 - <b>AI & Large Language Models (RAG Systems)</b>
   - [Financial Analysis RAG System](https://github.com/medali431/Syst-me-RAG-d-analyse-financi-re.git)
