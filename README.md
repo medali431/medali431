@@ -29,6 +29,11 @@
    
 <h2>👨‍💻 Software Development & AI Projects:</h2>
 
+- <b>AI Assistants & Conversational Agents</b>
+  - [AI Portfolio Assistant](https://github.com/medali431/portfolio-agent) · [🔗 Live demo](https://portfolio-agent-delta-lac.vercel.app)
+    - *Stack: JavaScript (Node.js), Vercel Serverless Functions, Groq (Llama 3.3), HTML/CSS.*
+    - *Description: Conversational AI agent deployed in production that answers recruiters' questions about my profile, projects and availability. Built with a hardened system prompt (hallucination and prompt-injection guardrails), a server-side API key and a responsive chat interface.*
+
 - <b>Smart City & AI Data Platforms</b>
   - [Neo-Sousse 2030 - Smart City Platform](https://github.com/medali431/Plateforme-Smart-City-----Compilation-NL-----SQL-automates-et-IA-g-n-rative.git) 
     - *Stack: Python, Streamlit, PostgreSQL, SQLite, LangChain, Groq (LLM), Graphviz, Pytest.*
