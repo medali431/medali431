@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/medali431/images.git/linkedin_03_chemise_blanc_exterieur.jpg" width="150" style="border-radius: 50%;" alt="Mohamed Ali Nouira" />
+  <img src="https://github.com/medali431/images/linkedin_03_chemise_blanc_exterieur.jpg" width="150" style="border-radius: 50%;" alt="Mohamed Ali Nouira" />
 </div>
 
 <h1 align="center">Hi, I'm Mohamed Ali Nouira! <br/>
