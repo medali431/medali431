@@ -6,7 +6,7 @@
     </td>
     <td valign="middle">
       <h1>Hi, I'm Mohamed Ali Nouira 👋</h1>
-      <h3>Full Stack & AI Engineer · Embedded AI & IoT Developer</h3>
+      <h3>Full Stack & AI Engineer </h3>
       <p>
         Engineering student at ENISO (Applied Computer Science), building end-to-end
         software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and
