@@ -1,17 +1,19 @@
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/medali431/images/blob/main/linkedin_03_chemise_blanc_exterieur.jpg?raw=true" width="150" style="border-radius: 50%;" alt="Mohamed Ali Nouira" />
+    <td width="170" align="center" valign="middle">
+      <img src="https://github.com/medali431/images/blob/main/linkedin_03_chemise_blanc_exterieur.jpg?raw=true"
+           width="150" height="150" alt="Mohamed Ali Nouira" />
     </td>
-    <td>
-      <h1>Hi, I'm Mohamed Ali Nouira! <br/>
-        <a href="https://github.com/medali431">Full Stack & AI Engineer</a>, 
-        <a href="https://www.linkedin.com/in/med-ali-nouira-8bab37278/">Software Engineer</a>, 
-        <a href="https://github.com/medali431">Embedded AI & IoT Developer</a>
-      </h1>
+    <td valign="middle">
+      <h1>Hi, I'm Mohamed Ali Nouira 👋</h1>
+      <h3>Full Stack & AI Engineer · Embedded AI & IoT Developer</h3>
       <p>
-        Engineering student at ENISO (Applied Computer Science), building end-to-end software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and embedded IoT. Looking for a final-year project (PFE) in applied AI.
+        Engineering student at ENISO (Applied Computer Science), building end-to-end
+        software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and
+        embedded IoT. <b>Looking for a final-year project (PFE) in applied AI.</b>
       </p>
+      <a href="https://www.linkedin.com/in/med-ali-nouira-8bab37278/">LinkedIn</a> ·
+      <a href="https://github.com/medali431">GitHub</a>
     </td>
   </tr>
 </table>
