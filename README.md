@@ -2,17 +2,16 @@
 
 Engineering student at ENISO (Applied Computer Science), building end-to-end software around AI: web & mobile apps, backend APIs, RAG/LLM systems, and embedded IoT. Looking for a final-year project (PFE) in applied AI.
 
-<h2>👨‍💻 Embedded Systems and IoT Development Projects:</h2>
 
-- <b>Smart Home Automation (IoT Systems)</b>
-  - [Smart Smoke and Gas Detection System](https://github.com/medali431/Smart_home.git)
-- <b>Synchronisation de Vitesse de Deux Moteurs
-Brushless</b>
-   - [BL-VSync](https://github.com/medali431/Synchronisation-de-Vitesse-de-Deux-Moteurs-Brushless.git)
 
 
    
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development & AI Projects:</h2>
+
+- <b>AI & Large Language Models (RAG Systems)</b>
+  - [Financial Analysis RAG System](https://github.com/medali431/Syst-me-RAG-d-analyse-financi-re.git)
+    - *Stack: Python, LangChain, Groq (Llama 3.3), ChromaDB, HuggingFace, Google Colab.*
+    - *Description: End-to-end RAG pipeline to analyze PDFs and Excel files for financial solvency and liquidity assessment, featuring semantic search and zero-hallucination prompts.*
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Hotel-Managment-System](https://github.com/medali431/Hotel-Managment-System)
